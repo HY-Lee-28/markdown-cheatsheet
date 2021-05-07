@@ -251,3 +251,5 @@ For the git remote test
 
 this has been edited from remote port.
 
+Git merge has been done. Now gonna try the "git push".
+
